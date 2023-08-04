@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 
-![preojenin resmi](githubprojectss.png)
+![projenin resmi](githubprojectss.png)
 
 **Bu repo [kodluyoruz][df1] Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.**
 
